@@ -1,0 +1,7 @@
+{
+  "name": "@speko/adapter-vapi",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "library",
+  "sourceRoot": "packages/adapter-vapi/src",
+  "tags": ["scope:public", "type:adapter", "lang:ts"]
+}
