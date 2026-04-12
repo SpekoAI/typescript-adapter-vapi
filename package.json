@@ -4,7 +4,14 @@
   "description": "Vapi adapter for Speko — point Vapi at Speko's router instead of single providers",
   "license": "MIT",
   "author": "Speko",
-  "homepage": "https://speko.ai",
+  "homepage": "https://github.com/SpekoAI/typescript-adapter-vapi#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpekoAI/typescript-adapter-vapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SpekoAI/typescript-adapter-vapi/issues"
+  },
   "keywords": ["speko", "vapi", "voice-ai", "adapter"],
   "type": "module",
   "main": "./dist/index.js",
