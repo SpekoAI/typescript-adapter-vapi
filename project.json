@@ -1,5 +1,5 @@
 {
-  "name": "@speko/adapter-vapi",
+  "name": "@spekoai/adapter-vapi",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "library",
   "sourceRoot": "packages/adapter-vapi/src",

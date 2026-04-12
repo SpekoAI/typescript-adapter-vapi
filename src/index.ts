@@ -1,5 +1,5 @@
 /**
- * @speko/adapter-vapi — Vapi adapter for Speko.
+ * @spekoai/adapter-vapi — Vapi adapter for Speko.
  *
  * This package is scaffolded as a placeholder. The real implementation will
  * provide helpers for pointing Vapi assistants at Speko's proxy endpoints

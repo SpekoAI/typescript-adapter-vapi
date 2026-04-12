@@ -1,4 +1,4 @@
-# @speko/adapter-vapi
+# @spekoai/adapter-vapi
 
 > **Coming soon.** This package is currently a scaffolded placeholder.
 
